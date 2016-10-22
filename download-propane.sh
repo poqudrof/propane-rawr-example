@@ -1,7 +1,7 @@
 #!/bin/bash
 
-mkdir tmp
-mkdir lib/java
+mkdir -p tmp
+mkdir -p lib/java
 
 cd tmp
 
