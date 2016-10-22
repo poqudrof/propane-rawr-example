@@ -18,8 +18,16 @@ rawr install
 ## build the jar
 rake rawr:jar
 
+## Try rake -T  to see other possiblities, like  rake rawr:bundle:exe
+
 ## Test
 java -jar package/jar/propane-example.jar
+```
+
+Create an archive to distribute it:
+``` bash
+tar -cvf propane-example.tar package/jar 
+zip -r propane-example.zip package/windows 
 ```
 
 ### What is it really 
