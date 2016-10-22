@@ -7,7 +7,7 @@ This is an example of building an executable jar with rawr.
 
 #### Dependencies
 ``` bash 
-jgem install rawr
+jgem install rawr --source http://gems.neurogami.com
 ``` 
 
 #### Steps
