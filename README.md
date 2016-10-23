@@ -1,13 +1,13 @@
-# Distribuable [Propane](https://github.com/ruby-processing/propane) application with [Rawr](https://github.com/rawr/rawr)
+# Distributable [Propane](https://github.com/ruby-processing/propane) application with [Rawr](https://github.com/rawr/rawr)
 
 This is an example of building an executable jar with rawr. 
 
 
 ### How to use
 
-#### Depedencies
+#### Dependencies
 ``` bash 
-jgem install rawr
+jgem install rawr --source http://gems.neurogami.com
 ``` 
 
 #### Steps
