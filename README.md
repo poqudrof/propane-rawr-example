@@ -38,3 +38,8 @@ one dependency: propane for our example.
 You can read more about propane on [github](https://github.com/ruby-processing/propane) and their [website](https://ruby-processing.github.io/propane/). 
 
 You can read more about Rawr on [github](https://github.com/rawr/rawr) and and their [website](http://rawr.rubyforge.org/) and [blog](http://neurogami.com/blog/neurogami-getting-started-with-rawr.html). 
+
+### TODO: 
+
+Create another branch with warbler, following this example:
+http://ericlondon.com/2013/10/04/ahead-of-time-compiling-jruby-packaging-a-java-jar-creating-a-gemspec-using-warbler.html
